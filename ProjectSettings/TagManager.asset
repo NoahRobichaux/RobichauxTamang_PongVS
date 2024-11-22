@@ -8,6 +8,8 @@ TagManager:
   - BottomWall
   - Player1
   - Player2
+  - ScoreLineLeft
+  - ScoreLineRight
   layers:
   - Default
   - TransparentFX
